@@ -1,0 +1,9 @@
+body {
+	margin: auto;
+	background-color: wheat;
+}
+
+.img {
+	display: flex;
+	padding: 15px;
+}
