@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect('localhost', 'root', 'root','shop');
+$link = mysqli_connect('localhost', 'root', 'root', 'shop');
 
 function getPage(array $pages)
 {
